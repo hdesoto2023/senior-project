@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
